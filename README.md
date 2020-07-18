@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 # SpeedSquirell
 Lightweight Mampstack (Apache, MariaDB, (multiple)PHP) with dnsmasq for local webapp development on OSX.
 What does a squirell and this setup has in common? Speed,performance and a collection of the biggest nuts!
